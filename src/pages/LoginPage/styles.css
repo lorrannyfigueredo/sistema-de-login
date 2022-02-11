@@ -6,3 +6,24 @@
     min-height: 100vh;
     padding: 0 2rem;
 }
+
+#login .form {
+    background-color: #f1f1f1;
+    width: 100%;
+    max-width: 480px;
+    padding: .5rem;
+}
+
+#login .field label {
+    display: block;
+}
+
+#login .field input {
+    width: 98%;
+    margin-bottom: .5rem;
+}
+
+#login .actions {
+    text-align: center;
+    margin-top: .5rem;
+}
